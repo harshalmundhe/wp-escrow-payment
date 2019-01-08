@@ -1,0 +1,41 @@
+.adminescrowtable {
+    border-collapse: collapse;
+	margin-left:  10px !important;
+	overflow: scroll;
+}
+
+.adminescrowtable  th{
+	font-weight: bold;
+}
+
+.adminescrowtable  th, .adminescrowtable  td {
+    padding: 18px;
+    text-align: left;
+}
+.adminescrowtable td input,textarea {
+    height: 26px;
+	margin-top: 10px;
+	
+}
+
+#ep-shortcode-insert-dialog-body{
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.detailstable{
+    width: 100%;
+    text-align: left;
+}
+.phasetable{
+    width: 100%;
+    text-align: left;
+}
+
+.fright{
+    float: right;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
